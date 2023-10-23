@@ -32,6 +32,7 @@ Check out some of the projects I've done!
 
 ## Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaronsoukaphay&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaronsoukaphay&show_icons=true&theme=radical)
 
 ### 📫 Let's Connect!
 Feel free to contact me through [LinkedIn](www.linkedin.com/in/aaron-soukaphay) if you'd like to connect!
