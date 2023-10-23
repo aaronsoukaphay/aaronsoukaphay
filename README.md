@@ -30,6 +30,9 @@ Check out some of the projects I've done!
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
 
+## Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaronsoukaphay&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 📫 Let's Connect!
 Feel free to contact me through [LinkedIn](www.linkedin.com/in/aaron-soukaphay) if you'd like to connect!
 
