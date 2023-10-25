@@ -1,3 +1,5 @@
+![LinkedIn banner](https://github.com/aaronsoukaphay/aaronsoukaphay/assets/132744086/bccd5f51-e4b6-4e58-9667-ea3de5d0f65d)
+
 ## Hello World 👋
 
 ### 💬 About Me 
